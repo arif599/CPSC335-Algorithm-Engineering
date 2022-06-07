@@ -15,7 +15,7 @@ Implementing algorithms to solve practical problems.
 
 ## Textbook: 
 Required 
-  Algorithm Design in Three Acts, Kevin Wortman, Beta Edition, available as a free PDF on Canvas. 
+  1. Algorithm Design in Three Acts, Kevin Wortman, Beta Edition, available as a free PDF on Canvas. 
 
 Optional 
   1. Introduction to the Design and Analysis of Algorithms, Anany Levitin, Addison Wesley, 3rd Ed., 2011. 
